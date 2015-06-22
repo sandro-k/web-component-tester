@@ -1,3 +1,6 @@
+# TEMPORARY and will be deleted without notice
+This repository is a copy of [Polymer/web-component-tester](https://github.com/Polymer/web-component-tester) until Polymer/web-component-tester#181 is fixed
+   
 [![NPM version](http://img.shields.io/npm/v/web-component-tester.svg?style=flat-square)](https://npmjs.org/package/web-component-tester)
 [![Build Status](http://img.shields.io/travis/Polymer/web-component-tester.svg?style=flat-square)](https://travis-ci.org/Polymer/web-component-tester)
 [![Gitter](http://img.shields.io/badge/slack-join%20chat%20%E2%86%92-brightgreen.svg?style=flat-square)](https://polymer-slack.herokuapp.com/)
